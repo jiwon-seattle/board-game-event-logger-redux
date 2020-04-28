@@ -22,13 +22,14 @@
 ### Tech stack:
 + [NPM](https://www.npmjs.com/) for package management
 + [react](https://reactjs.org/) as core stack
-Used below packages:
+
+#### Used below packages:
 1. npm install redux-thunk
 2. npm install redux-logger --dev
 3. npm install react-router-dom react-redux history
 4. npm install redux-devtools-extension --dev
 
-### before redux, only react: 
+#### before redux, only react: 
 ```bash 
 git reset --hard 46b842a9811af47f4b01f7e1de7a1f88661d99a7
 ```
