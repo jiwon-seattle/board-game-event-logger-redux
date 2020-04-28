@@ -11,8 +11,6 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-orange.svg)](https://lbesson.mit-license.org/)
 
 
-
-
 <img src="https://miro.medium.com/max/864/1*NMF-GM_ULkLlUtkIWgeGsA.jpeg" width="550px" />
 
 
@@ -25,13 +23,16 @@
 + [NPM](https://www.npmjs.com/) for package management
 + [react](https://reactjs.org/) as core stack
 Used below packages:
-npm install redux-thunk
-npm install redux-logger --dev
-npm install react-router-dom react-redux history
-npm install redux-devtools-extension --dev
+1. npm install redux-thunk
+2. npm install redux-logger --dev
+3. npm install react-router-dom react-redux history
+4. npm install redux-devtools-extension --dev
 
-before redux : 
-```bash git reset --hard 
+### before redux, only react: 
+```bash 
+git reset --hard 46b842a9811af47f4b01f7e1de7a1f88661d99a7
+```
+
 ### To run dev mode locally:
 ```bash
   $ git clone https://github.com/jiwon-seattle/
