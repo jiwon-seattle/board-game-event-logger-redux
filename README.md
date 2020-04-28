@@ -12,7 +12,7 @@
 
 ## 1. Specification
 
-A board game event logger site. User could join the event and check the events checked.
+A board game event logger site. User could join the event and check the events that user added to the user list.
 
 ### Sreenshot
 
