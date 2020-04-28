@@ -10,9 +10,9 @@
 ![Languages](https://img.shields.io/github/languages/top/jiwon-seattle/board-game-event-logger-redux)
 [![MIT license](https://img.shields.io/badge/License-MIT-orange.svg)](https://lbesson.mit-license.org/)
 
+## 1. Specification
 
-<img src="https://miro.medium.com/max/864/1*NMF-GM_ULkLlUtkIWgeGsA.jpeg" width="550px" />
-
+A board game event logger site. User could join the event and check the events checked.
 
 ### Sreenshot
 
@@ -22,6 +22,7 @@
 ### Tech stack:
 + [NPM](https://www.npmjs.com/) for package management
 + [react](https://reactjs.org/) as core stack
++ [react redux](https://react-redux.js.org/)
 
 #### Used below packages:
 1. npm install redux-thunk
